@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "img",
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-AU"
+  ]
+}
